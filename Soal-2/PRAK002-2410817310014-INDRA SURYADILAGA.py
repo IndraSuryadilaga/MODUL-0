@@ -1,5 +1,3 @@
-waktu = ['Pagi', 'Siang', 'Malam']
-nama = 'Indra Suryadilaga'
-
-for bagian in waktu:
-    print(f'Selamat {bagian}, {nama}')
+print(f"Selamat Pagi Indra Suryadilaga")
+print(f"Selamat Siang Indra Suryadilaga")
+print(f"Selamat Malam Indra Suryadilaga")
